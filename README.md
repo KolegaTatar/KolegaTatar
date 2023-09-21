@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://kolegatatar.github.io/Portfolio/)
 
-- 🌱 I’m currently learning **TypeScript, Node.js, PHP**
+- 🌱 I’m currently learning **TypeScript, Node.js, PHP, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://kolegatatar.github.io/Portfolio/](https://kolegatatar.github.io/Portfolio/)
 
