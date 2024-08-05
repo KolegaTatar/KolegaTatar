@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href= "https://kolegatatar.github.io/Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 <br/>
@@ -42,9 +42,15 @@
 
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️ </h1>
 <br>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" /><br>
-    <img src="https://skillicons.dev/icons?i=php,nodejs,javascript,typescript,cpp,java,mysql,dotnet,wordpress,cs" /><br>
+<div align="left">
+    <h3 align="left" ><b>Web</b></h3>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,laravel,typescript,wordpress" /><br>
+    <h3 align="left"><b>Databases</b></h3>
+    <img src="https://skillicons.dev/icons?i=mysql,php,nodejs,postgresql" /><br>
+    <h3 align="left"><b>Other</b></h3>
+    <img src="https://skillicons.dev/icons?i=cpp,java,dotnet,cs" /><br>
+    <h3 align="left"><b>Tools and software</b></h3>
+     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman,visualstudio,notion" /><br>
 </div>
 <br/>
 <!--<hr/>
