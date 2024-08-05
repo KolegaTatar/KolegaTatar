@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=php,nodejs,javascript,typescript,cpp,java,mysql,dotnet,wordpress,cs" /><br>
 </div>
 <br/>
-<hr/>
+<!--<hr/>
 <br/>
 
 <!--
