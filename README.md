@@ -1,5 +1,5 @@
 
-<img align="right" src="https://komarev.com/ghpvc/?username=kolegatatar&label=visitors&color=0e75b6&style=flat" alt="kolegatatar" />
+<img align="right" src="https://komarev.com/ghpvc/?username=kolegatatar&label=visitors&color=B09E8D&style=flat" alt="kolegatatar" />
 
 
 <!-- Intro  -->
