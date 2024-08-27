@@ -19,7 +19,7 @@
  
  🔭 I’m currently working on **a portfolio**
  
- 🌱 I’m currently learning **Docker, C, Arduino**
+ 🌱 I’m currently learning **React, C, Arduino**
 
 💬 Ask me about **HTML, CSS, WordPress... or anything**
 
