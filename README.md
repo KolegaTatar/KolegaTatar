@@ -10,7 +10,7 @@
 
 </h1>
 
-<h3 align="center">A passionate frontend developer from Poland </h3>
+<h3 align="center">A passionate full-stack developer from Poland </h3>
 <br>
 
 
