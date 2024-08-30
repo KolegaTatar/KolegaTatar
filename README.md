@@ -54,6 +54,10 @@
      <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman,visualstudio,notion" /><br>
 </div>
 <br/>
+<br/>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y812MARK)
+<br/>
 <!--<hr/>
 <br/>
 
