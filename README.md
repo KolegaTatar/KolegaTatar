@@ -51,7 +51,7 @@
     <h3 align="left"><b>Other</b></h3>
     <img src="https://skillicons.dev/icons?i=cpp,java,dotnet,cs,c" /><br>
     <h3 align="left"><b>Tools and software</b></h3>
-     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman,visualstudio,notion,idea,npm,webstorm" /><br>
+     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman,visualstudio,notion,idea,npm,webstorm,androidstudio" /><br>
 </div>
 <br/>
 <br/>
