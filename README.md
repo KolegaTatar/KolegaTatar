@@ -45,13 +45,13 @@
 <br>
 <div align="left">
     <h3 align="left" ><b>Web</b></h3>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,laravel,typescript,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,laravel,typescript,wordpress,express,react" /><br>
     <h3 align="left"><b>Databases</b></h3>
-    <img src="https://skillicons.dev/icons?i=mysql,php,nodejs,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,php,nodejs,postgresql,prisma" /><br>
     <h3 align="left"><b>Other</b></h3>
-    <img src="https://skillicons.dev/icons?i=cpp,java,dotnet,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,java,dotnet,cs,c" /><br>
     <h3 align="left"><b>Tools and software</b></h3>
-     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman,visualstudio,notion" /><br>
+     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,postman,visualstudio,notion,idea,npm,webstorm" /><br>
 </div>
 <br/>
 <br/>
