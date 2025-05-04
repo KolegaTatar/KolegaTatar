@@ -19,11 +19,10 @@
 
 ### 📌 Featured Projects
 
-- 🚀 [**TerraQuest**](https://github.com/KolegaTatar/TerraQuest) – platforma rezerwacyjna noclegów z intuicyjnym interfejsem i systemem ocen  
-- 📘 [**Project 2 Name**](https://github.com/KolegaTatar/Project2) – *krótki opis projektu 2*  
-- 📱 [**Project 3 Name**](https://github.com/KolegaTatar/Project3) – *krótki opis projektu 3*  
-
-> Pełna historia rozwoju TerraQuest dostępna jest w repozytorium głównym: [BergFilip/TerraQuest_web](https://github.com/BergFilip/TerraQuest_web.git)
+- 🌍 [**TerraQuest Web**](https://github.com/KolegaTatar/TerraQuest) – platforma rezerwacyjna noclegów (frontend hosting wersji głównej)  
+  ➤ Główne repozytorium: [BergFilip/TerraQuest_web](https://github.com/BergFilip/TerraQuest_web.git)  
+- 📱 [**TerraQuest Mobile**](https://github.com/KolegaTatar/TerraQuest_mobile.git) – aplikacja mobilna na Androida oparta na tym samym systemie rezerwacyjnym  
+- 🌦️ [**SkyVision Desktop**](https://github.com/KolegaTatar/SkyVision_desktop.git) – desktopowa aplikacja pogodowa napisana w Pythonie z użyciem PyQt
 
 ---
 
@@ -52,7 +51,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,php,nodejs,prisma" />
 
 #### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,c,cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=cpp,java,c,cs,python,dotnet" />
 
 #### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman,visualstudio,notion,idea,npm,webstorm,androidstudio" />
