@@ -4,25 +4,26 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=B09E8D&lines=Hi+There!+👋;+I'm+Wiktor+Tatarynowicz!" />
 </h1>
 
-<h3 align="center">💻 Full-stack developer from Poland | Crafting ideas into code</h3>
+<h3 align="center">💻 Full-stack developer from Poland | Turning ideas into functional products</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building: **portfolio** and personal projects  
-- 🌱 Learning: **React**, **C**, **Arduino**  
-- 💬 Ask me about: **HTML**, **CSS**, **WordPress**... or anything  
-- ⚡ Fun fact: **The gym is life 💪**
+- 🧩 Full-stack developer focused on building practical, user-oriented applications  
+- 📱 Recently developed web, mobile, and desktop apps (see below)  
+- 🌱 Currently exploring **C**, **Arduino**, and strengthening **React** skills  
+- 🎯 Interested in UI/UX, IoT projects, and cross-platform development  
+- ⚡ Fun fact: I lift weights between writing code – the gym keeps me sane 💪
 
 ---
 
 ### 📌 Featured Projects
 
-- 🌍 [**TerraQuest Web**](https://github.com/KolegaTatar/TerraQuest) – platforma rezerwacyjna noclegów (frontend hosting wersji głównej)  
-  ➤ Główne repozytorium: [BergFilip/TerraQuest_web](https://github.com/BergFilip/TerraQuest_web.git)  
-- 📱 [**TerraQuest Mobile**](https://github.com/KolegaTatar/TerraQuest_mobile.git) – aplikacja mobilna na Androida oparta na tym samym systemie rezerwacyjnym  
-- 🌦️ [**SkyVision Desktop**](https://github.com/KolegaTatar/SkyVision_desktop.git) – desktopowa aplikacja pogodowa napisana w Pythonie z użyciem PyQt
+- 🌍 [**TerraQuest Web**](https://github.com/KolegaTatar/TerraQuest) – hotel booking platform (production deployment repo)  
+  ➤ Main project repo with full commit history: [BergFilip/TerraQuest_web](https://github.com/BergFilip/TerraQuest_web.git)  
+- 📱 [**TerraQuest Mobile**](https://github.com/KolegaTatar/TerraQuest_mobile.git) – Android version of the booking platform  
+- 🌦️ [**SkyVision Desktop**](https://github.com/KolegaTatar/SkyVision_desktop.git) – weather forecast app for desktop (Python + PyQt)
 
 ---
 
@@ -44,7 +45,7 @@
 
 ### ⚒️ Tech Stack & Tools
 
-#### 🌐 Web
+#### 🌐 Web Development
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,express,laravel,wordpress,bootstrap" />
 
 #### 🗄️ Databases & Backend
@@ -53,10 +54,10 @@
 #### 🧠 Languages
 <img src="https://skillicons.dev/icons?i=cpp,java,c,cs,python,dotnet" />
 
-#### 🛠️ Tools
+#### 🛠️ Tools & Software
 <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman,visualstudio,notion,idea,npm,webstorm,androidstudio" />
 
 ---
 
-### ☕ Support
+### ☕ Support My Work
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y812MARK)
