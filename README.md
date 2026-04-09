@@ -4,67 +4,61 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=3500&color=B09E8D&lines=Hi+There!+👋;+I'm+Wiktor+Tatarynowicz!" />
 </h1>
 
-<h3 align="center">💻 Full-Stack & Web Developer from Poland — Building Modern, Scalable & User-Focused Applications</h3>
+<h3 align="center">🚀 Full-Stack & Android Developer | Certified IT Specialist (INF.03 & INF.04)</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 O mnie
 
-I am a software developer with hands-on **commercial experience**, specializing in delivering clean, scalable, and efficient digital products. My background ranges from building **Enterprise-grade systems** for major organizations (such as *Koleje Wielkopolskie*) to developing hardware-integrated applications (IoT) and mobile solutions.
+Jestem młodym programistą z komercyjnym doświadczeniem, skupionym na tworzeniu skalowalnych aplikacji webowych i mobilnych. Moim flagowym projektem jest obecnie **TerraQuest** – kompleksowy ekosystem rezerwacyjny, w którym odpowiadam za architekturę Full-stack oraz rozwiązania mobilne.
 
-### 💡 What I Bring to the Table
+### 💡 Kluczowe kompetencje
 
-- ⚛️ **Front-end:** Strong knowledge of **React** (hooks, context, routing, API integration) and modern CSS architectures (Tailwind, SCSS, BEM).
-- ⚙️ **Back-end & Databases:** Building robust APIs using **Node.js** and **PHP/Laravel**, coupled with SQL databases (MSSQL, MySQL).
-- 🤖 **Mobile & IoT:** Experience with cross-platform concepts, Android development, and **C++/Arduino** for hardware-software synchronization.
-- 🏗️ **Architecture:** Applying MVC, Controller-Service-Repository patterns, and strict OOP principles to maintain and scale large production systems.
-
-### 🌱 Currently Exploring
-
-- Deepening knowledge in **advanced React patterns** (TypeScript strict mode) and performance optimization (Vite).
-- Expanding my expertise in **IoT** and low-level **C** programming for real-time systems.
-
-⚡ **Fun fact:** I lift weights between writing code — the gym keeps me sane 💪
+- ⚛️ **Web Development:** Zaawansowany **React.js** oraz **Node.js/Express**. Zarządzanie danymi w **Supabase** i **MSSQL**.
+- 📱 **Mobile:** Tworzenie natywnych aplikacji na **Androida (Java)** z lokalną retencją danych (**SQLite**).
+- ⚙️ **Software Quality:** Pełne testowanie oprogramowania (**Jest**, **Supertest**, **Postman**).
+- 🛠️ **Hardware/IoT:** Programowanie mikrokontrolerów **C++/Arduino** i integracja z Web API przez Bluetooth.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Kluczowe Projekty
+
+### 🏨 [TerraQuest Ecosystem](https://github.com/BergFilip/TerraQuest_web) | *React, Node.js, Supabase, Android*
+Pełnowymiarowa platforma bookingowa (Web + Mobile). 
+*   **Web:** System filtracji, sortowania i bezpiecznego logowania (bcryptjs).
+*   **Mobile:** Klient natywny z obsługą offline i autorskim interfejsem graficznym.
+*   **Quality:** Projekt pokryty kompleksowymi testami jednostkowymi i integracyjnymi.
+
+### 🔴 [Familiada System](https://github.com/KolegaTatar/Familiada) | *JS, C++, Bluetooth Web API*
+Unikalne połączenie software'u z hardwarem. System obsługujący teleturniej na 3 niezależnych ekranach, zsynchronizowany z fizycznymi kontrolerami Arduino.
 
 ### 🚆 [KW Inwentarz](#) | *React, Node.js, MSSQL*
-**Commercial Enterprise SPA** developed for *Koleje Wielkopolskie* to centralize the management of IT hardware, SIM cards, and ROGER accesses. 
-*   **Highlight:** Custom session-based authorization, multiple user roles (Admin/Edit/View), and blazing-fast data table rendering.
+**Projekt komercyjny** dla *Kolei Wielkopolskich*. System klasy Enterprise do ewidencji zasobów IT, który zastąpił manualne procesy cyfrowym obiegiem danych.
 
-### 🔴 [Familiada System (PC + Hardware)](https://github.com/KolegaTatar/Familiada) | *JS, C++, Bluetooth Web API*
-An advanced TV-style game show system featuring 3 independent web interfaces (Host, Admin, Audience) synchronized with physical buzzers.
-*   **Highlight:** Built the physical controllers and wrote low-level **C++** lockout logic (millisecond precision), communicating with the web app via Bluetooth Web API.
+---
 
-### 🔗 [LinkBridge](https://github.com/KolegaTatar/LinkBridge) | *React, TypeScript, Vite*
-A minimalist, lightning-fast, open-source alternative to Linktree built in a 3-person team.
-*   **Highlight:** Achieved a perfect **100/100 Lighthouse score** through strict component architecture and Vite bundler configuration.
+## 📜 Certyfikaty & Kwalifikacje
 
-### 🌍 [TerraQuest Ecosystem](https://github.com/KolegaTatar/TerraQuest) | *Web API, GeoJSON, Mobile*
-A comprehensive spatial (Geo) data analysis system consisting of a custom REST API, a web interface, and an optimized mobile client for field workers.
-*   **Highlight:** Asynchronous parsing of large datasets, endpoint Rate-limiting, and native geolocator integration.
+- ✅ **Kwalifikacja INF.04** – Projektowanie, programowanie i testowanie aplikacji.
+- ✅ **Kwalifikacja INF.03** – Tworzenie i administrowanie stronami i bazami danych.
+- ✅ **Cisco CCNA 1** – Introduction to Networks.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🌐 Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,wordpress,tailwind,bootstrap,vite" />
+### 🌐 Frontend & Mobile  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,scss,java,androidstudio" />
 
-### 🗄️ Databases & Architecture  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
+### 🛡️ Backend & Database  
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,supabase,mysql,postgres,sqlite" />
 
-### 🧠 Programming Languages & Hardware  
-<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,python,arduino" />
-
-### 🛠️ Tools & Workflow  
-<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman,idea,androidstudio" />
+### 🛠️ Tools & Others  
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,jest,python,cpp,arduino" />
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Kontakt
 
 <div align="center"> 
   <a href="mailto:wiktor.tatarynowicz@gmail.com">
@@ -75,13 +69,5 @@ A comprehensive spatial (Geo) data analysis system consisting of a custom REST A
   </a>
   <a href="https://kolegatatar.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-B09E8D?style=for-the-badge&logo=devto&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://ko-fi.com/Y8Y812MARK">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Me on Ko-fi" />
   </a>
 </div>
